@@ -14,10 +14,10 @@ GUARANTEED_UP = 500
 GUARANTEED_DOWN = 250
 PROVIDER_NAME = "TheProvider"
 SPEED_TEST_URL = "https://www.speedtest.net/"
-TWITTER_EMAIL = "zaz_1102@ukr.net"
-TWITTER_PASSWORD = "Tavria_1987"
+TWITTER_EMAIL = #Some secret data)
+TWITTER_PASSWORD = #Very secret pass
 TWITTER_URL = "https://twitter.com/login/"
-TWITTER_USER_NAME = "SpeedTester9"
+TWITTER_USER_NAME = #You got it
 WAIT_TIME = 120
 
 #XPATHs for speedtest.net:
